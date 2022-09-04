@@ -6,4 +6,5 @@ itsdangerous==2.0.1
 Jinja2==2.0
 markupSafe==2.1.1
 pip==22.2.2
+main.py
 werkzeug==2.2.2
