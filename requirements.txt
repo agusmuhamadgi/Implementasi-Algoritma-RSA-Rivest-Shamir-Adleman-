@@ -1,9 +1,6 @@
-click==8.0.1
-colorama==0.4.4
-Flask==2.2.2
-Gunicorn==20.1.0
-itsdangerous==2.0.1
-Jinja2==3.0.1
-markupSafe==2.1.1
-pip==22.2.2
-werkzeug==2.2.2
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+Werkzeug==0.14.1
