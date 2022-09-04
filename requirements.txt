@@ -5,6 +5,4 @@ Gunicorn==20.1.0
 itsdangerous==2.0.1
 Jinja2==3.0.1
 markupSafe==2.0.1
-db.mysql
-main.py
-requirements.txt
+werkzeug==2.0.1
